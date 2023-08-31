@@ -16,7 +16,7 @@ export const Menubar = () => {
           </Nav>
           <Navbar.Collapse className="justify-content-end">
             <Navbar.Text>
-              <a href="/login"><Button size="sm" variant="outline-danger">Danger</Button></a>
+              <a href="/login"><Button size="sm" variant="outline-danger">teste</Button></a>
             </Navbar.Text>
           </Navbar.Collapse>
         </Container>
